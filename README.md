@@ -5,4 +5,5 @@ This repository contains lab material for **NYU’s DS-UA 201: Causal Inference*
 ---
 
 ### Notes
+- Lab 07 was a midterm review.
 - No lab session will be held on **Friday, November 28, 2025** (Thanksgiving).
